@@ -53,11 +53,11 @@ body {
   margin-top: 50px;
 }
 
-#button {
+button {
   width: 300px;
   text-align: center;
   margin-top: 20px;
-  font-size: 10px;
+  font-size: 12px;
   color: whitesmoke;
   background-color: green;
   border-radius: 5px;
