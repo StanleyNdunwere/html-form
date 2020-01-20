@@ -8,6 +8,8 @@ input{
     border:none;
     border: 1px solid rgb(231, 231, 231);
     font-family:'Raleway', sans-serif;
+    font-size:14px;
+    padding: 0 5px 0 5px;
 }
 
 body {
@@ -45,8 +47,8 @@ body {
   min-width: min-content;
   background-color: whitesmoke;
   position: relative;
-  padding: 15px;
-  width: 40%;
+  padding: 20px 40px 20px 40px;
+  width: fit-content;
   margin: auto;
   margin-top:30px;
   margin-bottom:30px;
