@@ -14,3 +14,75 @@ body {
   font-family:'Raleway', sans-serif;
 }
 
+#form-title,
+#form-text {
+  text-align: center;
+}
+
+#form-text {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.form-body {
+  margin: auto;
+}
+
+
+.labels,
+.input-field {
+  border-radius: 5px;
+  height: 30px;
+  width: 300px;
+  position: relative;
+}
+.input-field{
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+#form-background {
+  min-width: min-content;
+  background-color: whitesmoke;
+  position: relative;
+  padding: 15px;
+  width: 40%;
+  margin: auto;
+  margin-top:30px;
+  margin-bottom:30px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+#button {
+  width: 300px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 10px;
+  color: whitesmoke;
+  background-color: green;
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+  border: none;
+}
+
+.button-div {
+  width: min-content;
+  margin: auto;
+}
+
+#terms{
+    text-align: center;
+    line-height: 20px;
+}
+
+#login-p{
+    width:fit-content;
+    display: block;
+    color:white;
+    margin: 10px auto 10px auto;
+}
+
+#login-link{
+    color:orange;
+    font-weight: bold;
+}
