@@ -27,7 +27,16 @@ body {
   right: 50px;
   /* float: left; */
 }
-
+#box-4 {
+  background-color: orange;
+  /* float: left; */
+}
+#box-5 {
+  background-color: blueviolet;
+  position: sticky;
+  top: 10px;
+  /* float: left; */
+}
 
 .container {
   position: relative;
