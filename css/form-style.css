@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+input{
+    border:none;
+    border: 1px solid rgb(231, 231, 231);
+}
+
+body {
+  background-color: teal;
+  font-family:'Raleway', sans-serif;
+}
+
